@@ -1,7 +1,7 @@
-# Gratio 
+# Ratio 
 **WARNING:** this is an educational project to create a rat which has a control panel in discord and **does not mean** to harm someone. so I do not accept any complains about what you do. 
 
-Welcome. gratio is a discord rat which would have a control panel on discord with a bot.
+Welcome. ratio is a discord rat which would have a control panel on discord with a bot.
 the installation process is really easy and will be explained detail by details so you do not need to be worried.
 
 ## Requirements

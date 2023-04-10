@@ -1,4 +1,4 @@
-# Please read the docs first https://github.com/gameisntover/Gratio
+# Please read the docs first https://github.com/gameisntover/Ratio
 import os
 import platform
 import webbrowser
